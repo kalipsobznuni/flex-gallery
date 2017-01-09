@@ -39,11 +39,11 @@ body {
 }
 
 
-.panel1 { background-image:url(https://source.unsplash.com/gYl-UtwNg_I/1500x1500); }
-.panel2 { background-image:url(https://source.unsplash.com/1CD3fd8kHnE/1500x1500); }
-.panel3 { background-image:url(https://images.unsplash.com/photo-1465188162913-8fb5709d6d57?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&w=1500&h=1500&fit=crop&s=967e8a713a4e395260793fc8c802901d); }
-.panel4 { background-image:url(https://source.unsplash.com/ITjiVXcwVng/1500x1500); }
-.panel5 { background-image:url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500); }
+.panel1 { background-image:url(http://www.desktopas.com/files/2013/06/Landscape-Snow-Mountains-Multicolor-Stars-Skyscapes-Blurred-Night-Sky.jpg); }
+.panel2 { background-image:url(http://www.sffonline.co.za/wp-content/uploads/2016/04/nightforest1.jpg); }
+.panel3 { background-image:url(https://www.walldevil.com/wallpapers/a80/mountain-top-mountain-climbing-horizon-sky.jpg); }
+.panel4 { background-image:url(http://www.magic4walls.com/wp-content/uploads/2015/09/husky-walking-on-the-sand-beach-at-morning.jpg); }
+.panel5 { background-image:url(https://twayneheeter.files.wordpress.com/2013/04/104.jpg); }
 
 .panel > * {
   margin:0;
